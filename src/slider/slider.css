@@ -1,0 +1,30 @@
+.CD{
+	position: absolute;
+	color: white;
+	text-align: center;
+	left: 0;
+	right: 0;
+	top: 3%;
+  	
+ 	letter-spacing:-1px;
+ /*	font-size: 15%*/
+ 	
+ 	font-weight: bold;
+  }
+  .p1{
+    letter-spacing: -1px;
+    color: white;
+    font-family: 'Arial';
+    font-weight: bold;
+    text-align: center;
+  
+  }
+  .p2{
+    letter-spacing: '0em';
+    color: grey;
+    font-weight: 'normal';
+    font-family: 'Arial';
+    text-align: center;
+       
+  
+  }

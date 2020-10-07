@@ -1,0 +1,9 @@
+.container-fluid{
+    background-color: lightgreen;text-align: center;
+}
+.btn{
+    border-color:white; border-radius: 10px;background-color: lightgreen; color: white 
+}
+.p1{
+    font-size: 250%;color: white;letter-spacing: -3px
+}
